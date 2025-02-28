@@ -5,7 +5,7 @@ Sokoban is a japanese puzzle video game, where the player pushes boxes around a 
 In the original game the player controls the player and walks into a box to push it; in this version the player specifies which box they want to push
 and in which direction and the program does the rest (checks if move is legal and if so moves the box and the player accordingly).
 # Map legend
-The map consists of empty squares, walls, boxes, goal squares and the player.
+The map consists of empty squares, walls, boxes, goal squares and the player.\n
 '-' empty square
 '#' wall
 'a'-'z' boxes
